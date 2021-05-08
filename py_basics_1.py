@@ -11,4 +11,6 @@ x = random.randint(4, 44)
 # print that random number to the user
 print(x)
 # multiply the random number by 2 and print the result
+print(x*2)
+
 print("END OF CODE")
