@@ -13,3 +13,18 @@ spam(1)
 
 results = roll()
 print(results)
+
+# Python Lists
+# make an array
+
+# make a tuple
+
+# make a dictionary
+
+# Python loops
+
+# for-loop index method
+
+# pythonic for-loop
+
+# while loop
